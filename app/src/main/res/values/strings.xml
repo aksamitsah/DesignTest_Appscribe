@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="find_your_level">Find your Level...</string>
+    <string name="trivia">Trivia</string>
+    <string name="hello_name">Hello, Name</string>
+    <string name="summery">SUMMERY</string>
+    <string name="try_again">FINISH</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="history">HISTORY</string>
+    <string name="who_is_the_best_cricketer_in_the_world_noptions">Who is the best cricketer in the world?\nOptions:</string>
+    <string name="a_sachin_tendulkar">A) Sachin Tendulkar</string>
+    <string name="b_virat_kolli">B) Virat Kolli</string>
+    <string name="c_adam_gilchirst">C) Adam Gilchirst</string>
+    <string name="d_jacques_kallis">D) Jacques Kallis</string>
+    <string name="select_any_one">Select any one.</string>
+    <string name="a_white">A) White</string>
+    <string name="b_yellow">B) Yellow</string>
+    <string name="c_orange">D) Orange</string>
+    <string name="what_are_the_colors_in_the_indian_national_flag_select_all_options">What are the colors in the Indian national flag? Select all: \nOptions:</string>
+    <string name="c_green">C) Green</string>
+    <string name="select_more_than_1">Select more than 1</string>
+    <string name="next_button">NEXT BUTTON</string>
+    <string name="game_1_15th_march_2_00_pm">GAME 1 : 15th March 2:00 pm</string>
+    <string name="name_amit_sah">Name: Amit sah</string>
+</resources>
